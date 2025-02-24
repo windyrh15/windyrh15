@@ -72,13 +72,6 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-
 <h6 align="center"></h6>
 
 ###
@@ -86,6 +79,13 @@
 <img src="https://raw.githubusercontent.com/windyrh15/windyrh15/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
+
 
 <p align="center">"I approach coding with a practical mindset. While I don't see myself as particularly special, I believe in my ability to tackle and complete tasks efficiently. I find satisfaction in solving problems and creating functional, innovative solutions."</p>
 
