@@ -68,6 +68,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg](https://github-production-user-asset-6210df.s3.amazonaws.com/1312006/351657763-844ca364-4d71-42b3-aaec-4a6c3509ee2e.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250224%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250224T232029Z&X-Amz-Expires=300&X-Amz-Signature=521d877972b955642d0f6bba1e17a34710f126829b4fc0ac8bd7e34b3e5b0c02&X-Amz-SignedHeaders=host)" height="40" alt="npm logo"  />
 </div>
 
 ###
