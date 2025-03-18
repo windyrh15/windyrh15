@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Windy from Indonesia 🇮🇩<br><br>- 🔭 I’m working as freelancer web developer<br>- 📚 I'm currently learning motoko and svelte<br>- ⚡ In my free time, I channel my creativity into coding, bringing to life the unconventional ideas that swirl around in my mind. From quirky interfaces to unique concepts, my projects may be unusual, but they are a true reflection of my inventive spirit.</p>
+<p align="left">I'm Windy from Indonesia 🇮🇩<br><br>- 🔭 I’m working as freelancer web developer<br>- 📚 I'm currently learning motoko, svelte and Three.js <br>- ⚡ In my free time, I channel my creativity into coding, bringing to life the unconventional ideas that swirl around in my mind. From quirky interfaces to unique concepts, my projects may be unusual, but they are a true reflection of my inventive spirit.</p>
 
 ###
 
