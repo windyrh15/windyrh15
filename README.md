@@ -69,6 +69,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img src="https://github.com/user-attachments/assets/650552e9-3a03-4406-a703-7aeae7982985" height="40" alt="motoko logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWIPVMXfqzRWR9RaXXLzIN1eS5W73pxe7F2g&s" height="40" alt="motoko logo"  />
 </div>
 
 ###
